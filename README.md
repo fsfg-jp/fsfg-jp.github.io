@@ -9,10 +9,10 @@
 ## 公開構成
 
 - GitHub Pages: HTMLページと小さな画像
-- GitHub Releases: `2019` Releaseの個別発表資料52件
+- GitHub Releases: `2008` Releaseの個別発表資料27件、`2019` Releaseの個別発表資料52件
 - 非公開: `2019/pdf/all.tar.gz`と未掲載の手元資料
 
-`all.tar.gz`は個別資料と重複するため、GitHubにはアップロードしません。手元の原本はバックアップとして保持します。
+`2019/pdf/all.tar.gz`は個別資料と重複するため、GitHubにはアップロードしません。手元の原本はバックアップとして保持します。
 
 ## 運用方針
 
