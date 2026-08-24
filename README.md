@@ -8,8 +8,8 @@
 
 ## 公開構成
 
-- GitHub Pages: HTMLページと小さな画像
-- GitHub Releases: `2008` Releaseの個別発表資料27件、`2019` Releaseの個別発表資料52件
+- GitHub Pages: HTMLページ、小さな画像、ブラウザ表示用の2008年発表資料27件
+- GitHub Releases: `2008` Releaseのバックアップ資料27件、`2019` Releaseの個別発表資料52件
 - 非公開: `2019/pdf/all.tar.gz`と未掲載の手元資料
 
 `2019/pdf/all.tar.gz`は個別資料と重複するため、GitHubにはアップロードしません。手元の原本はバックアップとして保持します。
